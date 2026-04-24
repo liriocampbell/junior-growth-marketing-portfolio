@@ -35,7 +35,7 @@
 
 ## 💡 Reflection
 
-This process taught me how to work with developer tools and version control systems. More importantly, it showed me how to **problem-solve independently** when facing technical limitations — a skill I consider essential in a growth marketing role.
+This process taught me how to work with developer tools and version control systems. More importantly, it showed me how to solve problems independently when facing technical limitations a skill I consider essential in a growth marketing role.
 
 ---
 
