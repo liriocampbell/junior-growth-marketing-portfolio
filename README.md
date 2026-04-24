@@ -1,42 +1,79 @@
-# 🌱 Junior Growth Marketing Specialist – Portfolio Project
-
-![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github)
-![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![Tools](https://img.shields.io/badge/Tools-Codespaces%20%7C%20Claude%20AI-blue?style=for-the-badge)
+# Junior Growth Marketing Specialist – Portfolio Project
+### by Lirio Campbell · Applying to 100Hires
 
 ---
 
-## 🛠️ Tools Used
+## The Challenge
 
-| Tool | Purpose |
-|------|---------|
-| 🐙 **GitHub** | Repository creation and version control |
-| 💻 **GitHub Codespaces** | Browser-based code editor (equivalent to Cursor) |
-| 🤖 **Claude AI** | AI assistant throughout the process |
+100Hires asked me to install Cursor IDE, set up Claude Code, and push
+a project to GitHub — all within 48 hours.
 
----
+I had never used any of these tools before.
+My Mac is too old to run Cursor.
+I had no GitHub account.
 
-## ✅ Steps Completed
-
-1. 🐙 Created a GitHub account and a public repository
-2. 💻 Opened GitHub Codespaces as development environment
-3. 📝 Created and edited this README.md file
-4. 🚀 Committed and pushed changes to GitHub
+This is what I did about it.
 
 ---
 
-## 🚧 Issues Encountered & How I Solved Them
+## How I Solved It
 
-> **Problem:** Cursor IDE requires macOS 12 or higher. My Mac runs an older version and is not compatible.
->
-> **Solution:** I researched alternatives and found that GitHub Codespaces offers the same functionality directly in the browser, with no installation required. This allowed me to complete all the required steps without compromising the quality of the work.
+**Problem 1: Cursor doesn't run on my Mac**
+Cursor requires macOS 12+. My machine runs an older version.
+I didn't ask for an extension. I researched alternatives immediately.
+
+**Solution:** GitHub Codespaces — a browser-based development environment
+with identical functionality to Cursor. No installation required.
+It runs entirely in Chrome.
+
+**Problem 2: I had never used GitHub**
+I created an account, set up a public repository, learned how commits
+and version control work — all in one sitting.
+
+**Problem 3: I had never written a README**
+I learned Markdown syntax from scratch to produce this document.
 
 ---
 
-## 💡 Reflection
+## Tools Used
 
-This process taught me how to work with developer tools and version control systems. More importantly, it showed me how to solve problems independently when facing technical limitations a skill I consider essential in a growth marketing role.
+| Tool | Role | Status |
+|------|------|--------|
+| GitHub | Version control & publishing | ✅ New skill |
+| GitHub Codespaces | Development environment (Cursor alternative) | ✅ New skill |
+| Claude AI | AI assistant & problem-solving partner | ✅ Used actively |
+| Markdown | Documentation language | ✅ New skill |
 
 ---
 
-*Made with 💜 by Lirio Campbell*
+## What This Project Actually Demonstrates
+
+The job description says:
+> *"When you're stuck, you search YouTube, read docs, ask Claude —
+> you don't wait for instructions."*
+
+That's exactly what happened here.
+
+I hit a wall on the first step. I didn't email asking for help or an
+extension. I found a working solution, documented it clearly, and
+delivered on time.
+
+If that's the kind of person you're looking for — I'm ready to start.
+
+---
+
+## Why 100Hires
+
+I'm not applying because I need any marketing job.
+I'm applying because this role is built around AI tools, autonomy,
+and learning fast — and that matches exactly how I already work.
+
+I used Claude AI to navigate this entire process.
+Not to do the work for me. To think alongside me.
+
+That distinction matters. And I think you'd agree.
+
+---
+
+*Submitted within 48 hours · GitHub Codespaces · Claude AI · Markdown*
+*Lirio Campbell — liriocampbell · GitHub*
