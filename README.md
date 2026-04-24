@@ -1,79 +1,43 @@
-# Junior Growth Marketing Specialist – Portfolio Project
-### by Lirio Campbell · Applying to 100Hires
+# Lirio Campbell
+
+Portfolio Project · 100Hires · Junior Growth Marketing Specialist  
 
 ---
 
-## The Challenge
-
-100Hires asked me to install Cursor IDE, set up Claude Code, and push
-a project to GitHub — all within 48 hours.
-
-I had never used any of these tools before.
-My Mac is too old to run Cursor.
-I had no GitHub account.
-
-This is what I did about it.
+I had never used GitHub. My Mac could not run Cursor. I had 48 hours. Here is what I did.
 
 ---
 
-## How I Solved It
+## The problem
 
-**Problem 1: Cursor doesn't run on my Mac**
-Cursor requires macOS 12+. My machine runs an older version.
-I didn't ask for an extension. I researched alternatives immediately.
+**Cursor would not install**  
+Cursor requires macOS 12 or higher. My computer runs an older version. Rather than waiting, I looked for an alternative immediately.
 
-**Solution:** GitHub Codespaces — a browser-based development environment
-with identical functionality to Cursor. No installation required.
-It runs entirely in Chrome.
+**No GitHub account, no experience**  
+I created an account from scratch, learned how repositories, commits and version control work, all in one sitting.
 
-**Problem 2: I had never used GitHub**
-I created an account, set up a public repository, learned how commits
-and version control work — all in one sitting.
-
-**Problem 3: I had never written a README**
-I learned Markdown syntax from scratch to produce this document.
+**Never written a README before**  
+Learned Markdown syntax from scratch to produce this document.
 
 ---
 
-## Tools Used
+## What I used
 
-| Tool | Role | Status |
-|------|------|--------|
-| GitHub | Version control & publishing | ✅ New skill |
-| GitHub Codespaces | Development environment (Cursor alternative) | ✅ New skill |
-| Claude AI | AI assistant & problem-solving partner | ✅ Used actively |
-| Markdown | Documentation language | ✅ New skill |
-
----
-
-## What This Project Actually Demonstrates
-
-The job description says:
-> *"When you're stuck, you search YouTube, read docs, ask Claude —
-> you don't wait for instructions."*
-
-That's exactly what happened here.
-
-I hit a wall on the first step. I didn't email asking for help or an
-extension. I found a working solution, documented it clearly, and
-delivered on time.
-
-If that's the kind of person you're looking for — I'm ready to start.
+| Tool | Purpose |
+|------|---------|
+| GitHub | Version control and publishing |
+| GitHub Codespaces | Browser based editor, alternative to Cursor |
+| Claude AI | AI assistant throughout the process |
+| Markdown | Documentation language |
 
 ---
 
-## Why 100Hires
+## What this demonstrates
 
-I'm not applying because I need any marketing job.
-I'm applying because this role is built around AI tools, autonomy,
-and learning fast — and that matches exactly how I already work.
+The job description says: when you are stuck, you search, read docs, ask Claude — you do not wait for instructions. That is exactly what happened here.
 
-I used Claude AI to navigate this entire process.
-Not to do the work for me. To think alongside me.
-
-That distinction matters. And I think you'd agree.
+I hit a wall on step one. I found a working solution, documented it clearly, and delivered on time. That is the job.
 
 ---
 
-*Submitted within 48 hours · GitHub Codespaces · Claude AI · Markdown*
-*Lirio Campbell — liriocampbell · GitHub*
+I used Claude AI throughout this process — not to do the work for me, but to think alongside me. That distinction matters.
